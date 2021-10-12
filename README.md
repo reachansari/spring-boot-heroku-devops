@@ -1,1 +1,1 @@
-# CI-CD-spring-boot-heroku
+# spring-boot-heroku-devops
