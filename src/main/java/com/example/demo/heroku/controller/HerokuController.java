@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HerokuController {
 	@GetMapping
     public String hello() {
-        return "Welcome to Heroku";
+        return "Welcome to Heroku1";
     }
 
 }
